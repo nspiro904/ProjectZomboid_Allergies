@@ -1,0 +1,10 @@
+module Base {
+  item Epipen {
+    DisplayName = Epipen,
+    Type = Food,
+    Medical = TRUE,
+    DisplayCategory = FirstAid,
+    CustomContextMenu = Use,
+    OnEat = OnEat_Epipen
+  }
+}

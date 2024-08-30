@@ -1,0 +1,5 @@
+Add allergy trait
+add moodle for allergic reaction
+add allergic reaction event from eating eggs
+
+was about to decompile some classes to look inside
